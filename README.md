@@ -1,3 +1,2 @@
-# test-project-v1
-
-テストで作成しました
+gcc main.c dijkstra.c memocheck.c shopInput.c -o main
+./main
